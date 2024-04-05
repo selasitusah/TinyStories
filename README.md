@@ -1,2 +1,3 @@
 # TinyStories
-Generating short stories with a Generative Pre-trained Transformer(GPT)
+A Large Language Model for generating short stories with a Transformer network architecture
+
